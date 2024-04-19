@@ -10,3 +10,8 @@ tech stacks used in this project:-
 6.sha256 for privacy encryptions
 7.numpy
 8.pandas
+
+
+
+to run the app:-
+streamlit run main.py
