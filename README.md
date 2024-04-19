@@ -1,5 +1,6 @@
 # easywayy
 streamlit based project 
+
 tech stacks used in this project:-
 1.streamlit
 2.python
